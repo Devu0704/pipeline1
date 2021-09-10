@@ -1,3 +1,0 @@
-FROM python:3
-
-RUN pip install Pillow==2.2.2
