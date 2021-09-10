@@ -1,0 +1,9 @@
+name-/^[a-zA-Z ]{3,30}$/
+mobile-/^([0-9]{10,12})$/
+email:/^[a-z0-9._%+-]+@([a-z0-9.-]{5})+\.[a-z]{2,4}$/
+password:/^(?=.*\d)(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z]).{8,}$/
+
+
+task1: toogle two image on single button
+task2: display car and bike list and show the selected option when we click on it.
+
